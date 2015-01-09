@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
+title: Ana Lacerda
+subtitle: Consultant Developer at ThoughtWorks
 ---
+I'm a young open-minded brazilian girl who loves to build new technology, to travel and to meet new cultures. 
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
 
-This theme is made by me. You have a nice day. ♥
+Tweet at [@aninhalacerdaa](http://twitter.com/aninhalacerdaa), read my code on [GitHub](http://github.com/aninhalacerda) and find my CV on [LinkedIn](https://www.linkedin.com/in/anasiqueira).
+
+You can also check my [blog](/blog), you might find something interesting. Have a nice day. ♥
