@@ -95,10 +95,10 @@ footer {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   background: #fff;
   margin: 40px auto 20px;
-  border-radius: 7px;
+  border-radius: 75px;
   border: 1px solid #eee;
   position: relative; }
   #container:before, #container:after {
@@ -357,6 +357,7 @@ img {
 
 .paging a {
   opacity: 0.25; }
+
 .paging a:hover {
   opacity: 0.7;
   background: none; }
